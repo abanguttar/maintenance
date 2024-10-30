@@ -216,13 +216,13 @@ $_SESSION['token'] =  md5(uniqid(mt_rand(), true));
                     <img src="./assets/Facebook.png" class="icon" alt="facebook">
                 </a>
                 <a class="mx-1" href="https://api.whatsapp.com/send?phone=6281210007012&amp;text=Hallo Admin Kita Kompeten" target="_blank">
-                    <img src="./assets/Whatsapp.png" class="icon" alt="whatsapp">
+                    <img src="./assets/WhatsApp.png" class="icon" alt="whatsapp">
                 </a>
                 <a class="mx-1" href="https://www.tiktok.com/@kita.kompeten" target="_blank">
                     <img src="./assets/Tiktok.png" class="icon" alt="tiktok">
                 </a>
                 <a class="mx-1" href="https://www.linkedin.com/company/kitakompeten/" target="_blank">
-                    <img src="./assets/Linkedin.png" class="icon" alt="linkedin">
+                    <img src="./assets/LinkedIn.png" class="icon" alt="linkedin">
                 </a>
             </div>
         </div>
