@@ -7,8 +7,5 @@ This file is viewing and maintance page with estimation count down
 ## How to install
 
 ```json5
-{
-    git clone
-}
-
+git clone https://github.com/abanguttar/maintenance.git
 ```
